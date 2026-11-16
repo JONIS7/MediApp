@@ -13,7 +13,11 @@ Aplicação full-stack para gerenciamento de clínicas médicas, permitindo aute
 
 ## Preview da Interface
 
+### Tela de Login
 ![Tela de Login do MediApp](./docs/screenshots/login.jpg)
+
+### Dashboard Principal
+![Dashboard do MediApp](./docs/screenshots/dashboard.png)
 
 ---
 
