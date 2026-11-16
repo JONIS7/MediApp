@@ -1,0 +1,29 @@
+# Dependencies
+node_modules/
+src/node_modules/
+medi-app/node_modules/
+
+# Next.js build
+medi-app/.next/
+medi-app/out/
+
+# Environment files
+.env
+.env.*
+src/.env
+medi-app/.env
+medi-app/.env.*
+!*.env.example
+!src/.env.example
+!medi-app/.env.example
+
+# Local fallback database & generated files
+src/database/local-db.json
+src/prescriptions/*.pdf
+!src/prescriptions/.gitkeep
+
+# Logs & OS files
+*.log
+npm-debug.log*
+.DS_Store
+Thumbs.db

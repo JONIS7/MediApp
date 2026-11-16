@@ -1,0 +1,24 @@
+$kind: http-request
+name: Update
+url: http://localhost:3000/prescriptions/6a90d509985c4ad82b46ee7a
+method: PUT
+body:
+  type: json
+  content: "   {\r
+
+    \        \"_id\": \"6a90d509985c4ad82b46ee7a\",\r
+
+    \        \"date\": \"2026-08-27T00:00:00.000Z\",\r
+
+    \        \"appointmentId\": \"asdasdasdadadada\",\r
+
+    \        \"medicine\": \"Paracetamol\",\r
+
+    \        \"dosage\": \"500mg\",\r
+
+    \        \"instructions\": \"Tomar 1 comprimido a cada 5 horas\",\r
+
+    \        \"__v\": 0\r
+
+    \    }"
+order: 4359323501871286

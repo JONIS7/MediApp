@@ -1,0 +1,23 @@
+$kind: http-request
+url: http://localhost:3000/postDoctor
+method: POST
+body:
+  type: json
+  content: "{\r
+
+    \  \"name\": \"Dr. Júlio Nogueira\",\r
+
+    \  \"login\": \"julio_doc2\",\r
+
+    \  \"password\": \"senhaSegura123\",\r
+
+    \  \"medicalSpecialty\": \"Cardiologia\",\r
+
+    \  \"medicalRegistration\": \"CRM/SP 123457\",\r
+
+    \  \"email\": \"julio2@email.com\",\r
+
+    \  \"phone\": \"11999999998\"\r
+
+    }\r\n"
+order: 1787877199841

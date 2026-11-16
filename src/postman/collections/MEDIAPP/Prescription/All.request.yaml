@@ -1,0 +1,5 @@
+$kind: http-request
+name: All
+url: http://localhost:3000/prescriptions
+method: GET
+order: 1953458063508244
