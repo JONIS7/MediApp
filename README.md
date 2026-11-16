@@ -11,6 +11,12 @@ Aplicação full-stack para gerenciamento de clínicas médicas, permitindo aute
 
 ---
 
+## Preview da Interface
+
+![Tela de Login do MediApp](./docs/screenshots/login.jpg)
+
+---
+
 ## Principais Funcionalidades
 
 - **Autenticação JWT & Segurança**: Login de profissionais com senha criptografada (`bcrypt`) e rotas protegidas por token JWT (`authMiddleware`).
